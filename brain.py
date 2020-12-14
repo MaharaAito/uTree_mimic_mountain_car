@@ -2,7 +2,8 @@ import csv
 
 import scipy as sp
 import scipy.stats
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 import gym
 import numpy as np
 from collections import deque
@@ -47,7 +48,7 @@ class Model:
         self.session.run(self.optimiser, feed_dict={self.input: states, self.actions: actions, self.rewards: rewards})
 
     def save_model(self, game_number):
-        print 'saving model'
+        print('saving model')
         self.saver.save(self.session, "./model_save_mc_v0/mountaincar-v0-game-", global_step=game_number)
 
     def read_model(self):
@@ -211,7 +212,7 @@ class Agent:
 
         m, h = self.mean_confidence_interval(total_reward_list)
 
-        print 'DRL mean:{0}, interval:{1}'.format(str(m), str(h))
+        print('DRL mean:{0}, interval:{1}'.format(str(m), str(h)))
 
         # self.save_csv_all_correlations(record_transition,
         #                                './save_all_transition_e{1}/record_moutaincar_transition_game{0}.csv'.format(

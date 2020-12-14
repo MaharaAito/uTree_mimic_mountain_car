@@ -93,7 +93,7 @@ class CUTreeAgent:
     def print_event_values(self):
         read_game_number = 250
         self.read_Utree(game_number=read_game_number)
-        print "finishing read tree"
+        print("finishing read tree")
 
         game_directory = self.problem.games_directory
         game_dir_all = os.listdir(game_directory)
@@ -291,7 +291,7 @@ class CUTreeAgent:
             reward_total_list.append(reward_total)
         m, h = self.mean_confidence_interval(reward_total_list)
 
-        print 'DRL mean:{0}, interval:{1}'.format(str(m), str(h))
+        print('DRL mean:{0}, interval:{1}'.format(str(m), str(h)))
 
 
     def episode(self, timeout=int(1e5), save_checkpoint_flag=1):
@@ -336,8 +336,8 @@ class CUTreeAgent:
                 currentObs = nextObs
 
             self.utree.print_tree_structure()
-            print 'game number:{0}, with epsilon:{1}'.format(str(game_number), str(self.epsilon))
+            print('game number:{0}, with epsilon:{1}'.format(str(game_number), str(self.epsilon)))
             if save_checkpoint_flag and game_number % 100 == 0:
-                print "*** Writing Game File {0}***".format(str(game_number + 1))
+                print("*** Writing Game File {0}***".format(str(game_number + 1)))
                 pickle.dump(self.utree,
                             open(self.SAVE_PATH + "pickle_Game_File_" + str(game_number + 1) + ".p", 'wb'))

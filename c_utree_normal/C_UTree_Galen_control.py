@@ -66,7 +66,7 @@ class CUTree:
             old_state.updateModel(new_state=new_state.idx, action=self.history[-2].action,
                                   reward=self.history[-2].reward)
         else:
-            print "New game update begins"
+            print("New game update begins")
 
     def sweepLeaves(self):
         return self.sweepRecursive(self.root, self.gamma)
@@ -347,8 +347,8 @@ class CUTree:
                 child = node.applyInstanceDistinction(inst)
             except:
                 ValueError("stop")
-                print "ntype is {0}".format(ntype)
-                print "nodeType is {0}".format(node.nodeType)
+                print("ntype is {0}".format(ntype))
+                print("nodeType is {0}".format(node.nodeType))
                 return node
 
             node = node.children[child]
@@ -379,8 +379,8 @@ class CUTree:
                 child = node.applyDistinction(self.history, idx)
             except:
                 ValueError("stop")
-                print "ntype is {0}".format(ntype)
-                print "nodeType is {0}".format(node.nodeType)
+                print("ntype is {0}".format(ntype))
+                print("nodeType is {0}".format(node.nodeType))
                 return node
 
             node = node.children[child]
@@ -608,7 +608,7 @@ class CUTree:
         if node.nodeType == NodeLeaf or node.nodeType == NodeFringe:  # NodeSplit = 0 NodeLeaf = 1 NodeFringe = 2
 
             if self.pre_split_flag:
-                print 'pre-split on action'
+                print('pre-split on action')
                 self.pre_split_flag = False
                 d = Distinction(dimension=-1, back_idx=0, iscontinuous=False,
                                 dimension_name='actions')
@@ -627,7 +627,7 @@ class CUTree:
 
         for c in node.children:
             if c.depth >= self.max_tree_depth:
-                print "exceeding max depth, stop split"
+                print("exceeding max depth, stop split")
                 return 0
             else:
                 total += self.testFringeRecursive(c)
@@ -673,7 +673,7 @@ class CUTree:
                     cd_min = cd
 
                     if len(root_utils) == len(cu):
-                        print 'find you'
+                        print('find you')
 
                     print("KS passed, p={}, d = {}, back={}".format(p, cd.dimension, cd.back_idx))
                     # print(root_utils)
