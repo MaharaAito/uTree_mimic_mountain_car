@@ -2,6 +2,7 @@ import csv
 
 import scipy as sp
 import scipy.stats
+# import tensorflow as tf
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 import gym
@@ -130,7 +131,7 @@ class Agent:
         self.model = Model(self.env, self.learning_rate, self.memory)
 
         self.max_episodes = 1000
-        self.render = False
+        self.render = True
 
     def train(self):
         for i in range(self.max_episodes):
@@ -242,5 +243,5 @@ class Agent:
 
 if __name__ == "__main__":
     agent = Agent()
-    agent.train()
-    # agent.test()
+    # agent.train()
+    agent.test()

@@ -3,6 +3,7 @@ import gym
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import csv
 
 environment = gym.make('MountainCar-v0')
 learning_rate = 1e-3
@@ -11,13 +12,16 @@ dqn_model = brain.Model(environment, learning_rate, None)
 
 def save_decision_csv(decision_all):
     with open('./decision_all.csv', 'wb') as file:
+        writer = csv.writer(file)
         for decision_positions in decision_all:
             write_text = ''
             for decision_position in decision_positions:
                 write_text += str(decision_position) + ','
                 write_text = write_text[:-1]
-            file.write(write_text)
-            file.write('\n')
+            print(write_text)
+            file.write(write_text.encode())
+            file.write('\n'.encode())
+            # writer.writerow(write_text)
 
 
 def generate_model_decision(input_all):

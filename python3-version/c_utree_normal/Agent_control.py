@@ -44,9 +44,9 @@ class CUTreeAgent:
         self.cff = check_fringe_freq
         self.problem = problem
         # self.TREE_PATH = "./csv_test/"
-        self.SAVE_PATH = "/Local-Scratch/UTree model/mountaincar/model_control_normal_save/"
+        self.SAVE_PATH = "/Local-Scratch/UTree_model/mountaincar/model_control_normal_save/"
         self.epsilon_decay = .995
-        self.max_episodes = 1000
+        self.max_episodes = 1000 # default 1000
         self.epsilon = 1
 
     def update(self, currentObs, nextObs, action, reward, terminal=0, check_fringe=0,
@@ -301,7 +301,7 @@ class CUTreeAgent:
         :return: None
         """
         beginning_flag = True
-        for game_number in range(self.max_episodes):
+        for game_number in range(self.max_episodes+1):
 
             act_hist = np.zeros(len(self.problem.actions))  # record number of appearance of different actions
 
@@ -320,8 +320,9 @@ class CUTreeAgent:
 
                 if reward > 1 or reward <-1:
                     raise ValueError('reward problem')
-
-                self.problem.env.render()
+                
+                # OPEN AI GYM rendering func
+                # self.problem.env.render()
 
                 if i == 999:
                     nextObs = [-1]
@@ -337,7 +338,9 @@ class CUTreeAgent:
 
             self.utree.print_tree_structure()
             print(('game number:{0}, with epsilon:{1}'.format(str(game_number), str(self.epsilon))))
-            if save_checkpoint_flag and game_number % 100 == 0:
+            if save_checkpoint_flag and game_number % 100 == 0: # default 100
                 print(("*** Writing Game File {0}***".format(str(game_number + 1))))
-                pickle.dump(self.utree,
-                            open(self.SAVE_PATH + "pickle_Game_File_" + str(game_number + 1) + ".p", 'wb'))
+                # pickle.dump(self.utree,
+                #             open(self.SAVE_PATH + "pickle_Game_File_" + str(game_number + 1) + ".p", 'wb'))
+                with open(os.path.dirname(__file__) + self.SAVE_PATH + "pickle_Game_File_" + str(game_number + 1) + ".p", 'wb') as pickleFile:
+                    pickle.dump(self.utree, pickleFile)

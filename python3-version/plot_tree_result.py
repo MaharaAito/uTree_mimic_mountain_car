@@ -50,8 +50,8 @@ def plot_tree_correlation(home_correl):
 
 
 if __name__ == "__main__":
-    home_linear_correl, home_oracle_correl, home_merge_correl = read_result_csv(
-        csv_dir='./bak-result-correlation-all-linear-epoch-decay-lr-st0-900')
+    # home_linear_correl, home_oracle_correl, home_merge_correl = read_result_csv(
+        # csv_dir='./bak-result-correlation-all-linear-epoch-decay-lr-st0-900')
     plot_tree_correlation(home_linear_correl)
     plot_tree_correlation(home_oracle_correl)
     plot_tree_correlation(home_merge_correl)

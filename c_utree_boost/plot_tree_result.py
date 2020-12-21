@@ -153,5 +153,5 @@ def plot_correl_shadow_graph():
 
 if __name__ == "__main__":
     # plot_mse_shadow_graph()
-    plot_correl_shadow_graph()
-    # plot_simple_graph()
+    # plot_correl_shadow_graph()
+    plot_simple_graph()

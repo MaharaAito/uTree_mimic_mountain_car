@@ -178,4 +178,4 @@ if __name__ == "__main__":
         LR.read_weights()
         LR.linear_regression_model()
         temp = LR.gradient_descent(sess=sess, train_X=test_x, train_Y=test_y)
-        print temp
+        print(temp)

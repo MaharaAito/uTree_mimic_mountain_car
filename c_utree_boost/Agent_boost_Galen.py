@@ -207,7 +207,7 @@ class CUTreeAgent:
                 q_norm_list.append(float(q_i) / sum_q)
         else:
             q_norm_list = [0.5, 0.5, 0]
-        print q_norm_list
+        print(q_norm_list)
         return q_norm_list
 
     def smooth_list(self, y, box_pts=10):
@@ -509,10 +509,10 @@ class CUTreeAgent:
         # with tf.Session() as sess:
         self.utree.train_linear_regression_on_leaves(node=self.utree.root)
 
-        print 'saving ' + self.SAVE_MODEL_TREE_PATH + 'Model_Tree_File_' + str(train_game_number) + '.p'
+        print('saving ' + self.SAVE_MODEL_TREE_PATH + 'Model_Tree_File_' + str(train_game_number) + '.p')
         pickle.dump(self.utree,
                     open(self.SAVE_MODEL_TREE_PATH + 'Model_Tree_File_' + str(train_game_number) + '.p', 'wb'))
-        print 'finish saving ' + self.SAVE_MODEL_TREE_PATH + 'Model_Tree_File_' + str(train_game_number) + '.p'
+        print('finish saving ' + self.SAVE_MODEL_TREE_PATH + 'Model_Tree_File_' + str(train_game_number) + '.p')
 
     def feature_importance(self):
         self.read_Utree(game_number=100, save_path=self.SAVE_PATH)
@@ -589,7 +589,7 @@ class CUTreeAgent:
 
         if self.problem.isEpisodic:
             # print 'Game File ' + str(count)
-            print '*** Writing Game File {0}***\n'.format(str(game_number + 1))
+            print('*** Writing Game File {0}***\n'.format(str(game_number + 1)))
             self.utree.print_tree_structure(self.PRINT_TREE_PATH)
             if save_checkpoint_flag and (game_number + 1) % 1 == 0:
                 pickle.dump(self.utree,

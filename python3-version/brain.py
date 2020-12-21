@@ -124,9 +124,9 @@ class Agent:
         self.batch_size = 50
         self.max_memory_size = 10000
 
-        # self.env = gym.make('MountainCar-v0')
+        self.env = gym.make('MountainCar-v0')
         # self.env = gym.make('CartPole-v0')
-        self.env = gym.make('FlappyBird-v0')
+        # self.env = gym.make('FlappyBird-v0')
         # self.env = gym.make('Carnival-ram-v0')
 
         self.memory = ReplayMemory(self.env, self.batch_size, self.max_memory_size, self.gamma)
@@ -244,6 +244,6 @@ class Agent:
 
 
 if __name__ == "__main__":
-    agent = Agent()
-    agent.train()
-    # agent.test()
+    # agent = Agent()
+    # agent.train()
+    agent.test()

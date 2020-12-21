@@ -71,5 +71,5 @@ def visualize_decision(decision_all):
 if __name__ == "__main__":
     input_all = generate_data()
     decision_all = generate_model_decision(input_all)
-    # save_decision_csv(decision_all=decision_all)
+    save_decision_csv(decision_all=decision_all)
     visualize_decision(decision_all)

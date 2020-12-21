@@ -4,13 +4,15 @@
 # [GCC 4.8.4]
 # Embedded file name: /Local-Scratch/PycharmProjects/Sport-Analytic-U-Tree/continuous-U-Tree-ice-hockey/c_utree_oracle/C_UTree_boost_Galen.py
 # Compiled at: 2018-01-03 14:44:40
+from __future__ import print_function
+
 import random, numpy as np, optparse, sys, csv
 import gc
 import math
 from collections import defaultdict
 import linear_regression
 from scipy.stats import ks_2samp
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 
 config = tf.ConfigProto()
 config.gpu_options.allow_growth = True
@@ -220,20 +222,20 @@ class CUTree:
         :return:
         """
         if node.nodeType == NodeSplit:
-            print blank + ('idx={}, dis={}, par={}').format(node.idx, node.distinction.dimension,
-                                                            node.parent.idx if node.parent else None)
+            print(blank + ('idx={}, dis={}, par={}').format(node.idx, node.distinction.dimension,
+                                                            node.parent.idx if node.parent else None))
             for child in node.children:
                 self.print_tree_recursive(blank + ' ', child)
 
         else:
-            print blank + ('idx={}, t_h_h={}, t_h_a={}, t_a_h={}, t_a_a={}, q_h={}, q_a={}, par={}').format(node.idx,
+            print(blank + ('idx={}, t_h_h={}, t_h_a={}, t_a_h={}, t_a_a={}, q_h={}, q_a={}, par={}').format(node.idx,
                                                                                                             node.transitions_home_home,
                                                                                                             node.transitions_home_away,
                                                                                                             node.transitions_away_home,
                                                                                                             node.transitions_away_away,
                                                                                                             node.qValues_home,
                                                                                                             node.qValues_away,
-                                                                                                            node.parent.idx if node.parent else None)
+                                                                                                            node.parent.idx if node.parent else None))
         return
 
     def getInstanceQvalues(self, instance, reward):

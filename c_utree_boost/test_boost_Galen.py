@@ -41,7 +41,7 @@ def test():
 
 
 def test_sh():
-    print "hello"
+    print("hello")
 
 
 if __name__ == "__main__":
