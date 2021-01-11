@@ -78,7 +78,7 @@ class CUTreeAgent:
         return node.utility(ishome=True), node.utility(ishome=False)
 
     def read_Utree(self, game_number):
-        self.utree = pickle.load(open(self.SAVE_PATH + "pickle_Game_File_" + str(game_number) + ".p", 'rb'))
+        self.utree = pickle.load(open(os.path.dirname(__file__) + self.SAVE_PATH + "pickle_Game_File_" + str(game_number) + ".p", 'rb'))
 
     def save_csv_q_values(self, q_values, filename):
         with open(filename, 'wb') as csvfile:
@@ -268,7 +268,7 @@ class CUTreeAgent:
 
         self.read_Utree(201)
         reward_total_list = []
-        for game_number in range(200):
+        for game_number in range(199, 200):
             reward_total = 0
             act_hist = np.zeros(len(self.problem.actions))  # record number of appearance of different actions
             currentObs = self.problem.env.reset()
