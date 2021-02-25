@@ -91,14 +91,15 @@ class CUTreeAgent:
                 event_counter += 1
 
     def print_event_values(self):
-        read_game_number = 250
+        read_game_number = 1001
         self.read_Utree(game_number=read_game_number)
         print("finishing read tree")
 
         game_directory = self.problem.games_directory
+        print(game_directory)
         game_dir_all = os.listdir(game_directory)
 
-        game_to_print_list = [250]
+        game_to_print_list = [1001]
 
         for game_number in game_to_print_list:
             q_values = []
@@ -265,15 +266,14 @@ class CUTreeAgent:
         return m, h
 
     def play(self):
-
-        self.read_Utree(201)
+        self.read_Utree(1001)
         reward_total_list = []
-        for game_number in range(199, 200):
+        for game_number in range(998, 1000):
             reward_total = 0
             act_hist = np.zeros(len(self.problem.actions))  # record number of appearance of different actions
             currentObs = self.problem.env.reset()
             self.epsilon *= self.epsilon_decay
-            for i in range(0, 1000):
+            for i in range(0, 3000):
 
                 action = self.executePolicy(currentObs, 0.6)  # execute epsilon-greedy policy basing on Q
 

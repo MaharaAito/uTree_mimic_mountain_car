@@ -21,12 +21,13 @@ def train_model():
     CUTreeAgent.episode()
 
 
-# def test_model():
-#     ice_hockey_problem = Problem_moutaincar.MoutainCar(games_directory=opts.GAME_DIRECTORY)
-#     CUTreeAgent = Agent.CUTreeAgent(problem=ice_hockey_problem, max_hist=opts.MAX_NODE_HIST,
-#                                     check_fringe_freq=opts.CHECK_FRINGE_FREQ, is_episodic=0)
-    # CUTreeAgent.print_event_values()
+def test_model():
+    ice_hockey_problem = Problem_moutaincar_control.MoutainCar(games_directory=opts.GAME_DIRECTORY)
+    CUTreeAgent = Agent_control.CUTreeAgent(problem=ice_hockey_problem, max_hist=opts.MAX_NODE_HIST,
+                                    check_fringe_freq=opts.CHECK_FRINGE_FREQ, is_episodic=0)
+    CUTreeAgent.print_event_values()
 
 
 if __name__ == "__main__":
-    train_model()
+    # train_model()
+    test_model()
