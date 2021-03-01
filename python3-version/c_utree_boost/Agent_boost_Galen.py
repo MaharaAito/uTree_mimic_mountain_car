@@ -9,7 +9,7 @@ import numpy as np, ast, scipy.io as sio, os, unicodedata, pickle, C_UTree_boost
 import tensorflow as tf
 from scipy.stats import pearsonr
 
-from . import linear_regression
+import linear_regression
 import sys
 # from tensorflow.python.framework import ops
 from pympler.tracker import SummaryTracker
