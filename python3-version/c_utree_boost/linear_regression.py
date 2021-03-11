@@ -5,7 +5,7 @@ import numpy as np
 import pickle
 import scipy.io as sio
 import sys
-
+tf.compat.v1.disable_eager_execution()
 
 class LinearRegression:
     def __init__(self, training_epochs=500, learning_rate=0.05):

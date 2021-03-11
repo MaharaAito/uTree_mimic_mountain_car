@@ -1,6 +1,7 @@
 .idea/*
 venv/*
 venv37/*
+venv27/*
 python3-version/venv/*
 c_utree_boost/print_tree_record/*
 c_utree_boost/training_tempt_out_dir/*
