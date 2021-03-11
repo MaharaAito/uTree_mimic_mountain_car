@@ -1,0 +1,2000 @@
+2021-03-02 06:38:37.793118: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 1
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_1.p'
+2021-03-02 06:38:51.637181: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 2
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_2.p'
+2021-03-02 06:39:05.420657: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 3
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_3.p'
+2021-03-02 06:39:19.188466: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 4
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_4.p'
+2021-03-02 06:39:32.968109: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 5
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_5.p'
+2021-03-02 06:39:46.756802: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 6
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_6.p'
+2021-03-02 06:40:00.523256: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 7
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_7.p'
+2021-03-02 06:40:14.309498: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 8
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_8.p'
+2021-03-02 06:40:28.061689: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 9
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_9.p'
+2021-03-02 06:40:41.823661: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 10
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_10.p'
+2021-03-02 06:40:55.578197: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 11
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_11.p'
+2021-03-02 06:41:09.371252: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 12
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_12.p'
+2021-03-02 06:41:23.163657: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 13
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_13.p'
+2021-03-02 06:41:36.936275: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 14
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_14.p'
+2021-03-02 06:41:50.733502: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 15
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_15.p'
+2021-03-02 06:42:04.492573: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 16
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_16.p'
+2021-03-02 06:42:18.257823: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 17
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_17.p'
+2021-03-02 06:42:32.010718: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 18
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_18.p'
+2021-03-02 06:42:45.768453: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 19
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_19.p'
+2021-03-02 06:42:59.563707: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 20
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_20.p'
+2021-03-02 06:43:13.482182: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 21
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_21.p'
+2021-03-02 06:43:27.300589: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 22
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_22.p'
+2021-03-02 06:43:41.165578: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 23
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_23.p'
+2021-03-02 06:43:55.029542: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 24
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_24.p'
+2021-03-02 06:44:08.949257: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 25
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_25.p'
+2021-03-02 06:44:22.726404: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 26
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_26.p'
+2021-03-02 06:44:36.512988: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 27
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_27.p'
+2021-03-02 06:44:50.297392: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 28
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_28.p'
+2021-03-02 06:45:04.084095: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 29
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_29.p'
+2021-03-02 06:45:17.867488: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 30
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_30.p'
+2021-03-02 06:45:31.660587: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 31
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_31.p'
+2021-03-02 06:45:45.458700: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 32
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_32.p'
+2021-03-02 06:45:59.236784: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 33
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_33.p'
+2021-03-02 06:46:13.104630: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 34
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_34.p'
+2021-03-02 06:46:27.024657: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 35
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_35.p'
+2021-03-02 06:46:40.852956: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 36
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_36.p'
+2021-03-02 06:46:54.650026: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 37
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_37.p'
+2021-03-02 06:47:08.468605: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 38
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_38.p'
+2021-03-02 06:47:22.260516: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 39
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_39.p'
+2021-03-02 06:47:36.061808: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 40
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_40.p'
+2021-03-02 06:47:49.838189: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 41
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_41.p'
+2021-03-02 06:48:03.621969: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 42
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_42.p'
+2021-03-02 06:48:17.398262: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 43
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_43.p'
+2021-03-02 06:48:31.171835: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 44
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_44.p'
+2021-03-02 06:48:44.965604: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 45
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_45.p'
+2021-03-02 06:48:58.753195: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 46
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_46.p'
+2021-03-02 06:49:12.529131: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 47
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_47.p'
+2021-03-02 06:49:26.319888: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 48
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_48.p'
+2021-03-02 06:49:40.074304: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 49
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_49.p'
+2021-03-02 06:49:53.836844: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 50
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_50.p'
+2021-03-02 06:50:07.627030: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 51
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_51.p'
+2021-03-02 06:50:21.402578: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 52
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_52.p'
+2021-03-02 06:50:35.158359: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 53
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_53.p'
+2021-03-02 06:50:48.933875: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 54
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_54.p'
+2021-03-02 06:51:02.694607: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 55
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_55.p'
+2021-03-02 06:51:16.491050: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 56
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_56.p'
+2021-03-02 06:51:30.287439: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 57
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_57.p'
+2021-03-02 06:51:44.040653: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 58
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_58.p'
+2021-03-02 06:51:57.806077: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 59
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_59.p'
+2021-03-02 06:52:11.593678: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 60
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_60.p'
+2021-03-02 06:52:25.367372: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 61
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_61.p'
+2021-03-02 06:52:39.130593: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 62
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_62.p'
+2021-03-02 06:52:52.893281: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 63
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_63.p'
+2021-03-02 06:53:06.651004: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 64
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_64.p'
+2021-03-02 06:53:20.422996: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 65
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_65.p'
+2021-03-02 06:53:34.189965: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 66
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_66.p'
+2021-03-02 06:53:47.969083: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 67
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_67.p'
+2021-03-02 06:54:01.736610: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 68
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_68.p'
+2021-03-02 06:54:15.496210: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 69
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_69.p'
+2021-03-02 06:54:29.268714: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 70
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_70.p'
+2021-03-02 06:54:43.027141: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 71
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_71.p'
+2021-03-02 06:54:56.792915: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 72
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_72.p'
+2021-03-02 06:55:10.547338: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 73
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_73.p'
+2021-03-02 06:55:24.309611: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 74
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_74.p'
+2021-03-02 06:55:38.084868: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 75
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_75.p'
+2021-03-02 06:55:51.835932: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 76
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_76.p'
+2021-03-02 06:56:05.613065: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 77
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_77.p'
+2021-03-02 06:56:19.381925: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 78
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_78.p'
+2021-03-02 06:56:33.153515: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 79
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_79.p'
+2021-03-02 06:56:46.921003: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 80
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_80.p'
+2021-03-02 06:57:00.683409: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 81
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_81.p'
+2021-03-02 06:57:14.446940: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 82
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_82.p'
+2021-03-02 06:57:28.205633: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 83
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_83.p'
+2021-03-02 06:57:41.959099: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 84
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_84.p'
+2021-03-02 06:57:55.717161: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 85
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_85.p'
+2021-03-02 06:58:09.484361: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 86
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_86.p'
+2021-03-02 06:58:23.256066: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 87
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_87.p'
+2021-03-02 06:58:37.007889: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 88
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_88.p'
+2021-03-02 06:58:50.782044: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 89
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_89.p'
+2021-03-02 06:59:04.551336: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 90
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_90.p'
+2021-03-02 06:59:18.301020: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 91
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_91.p'
+2021-03-02 06:59:32.062986: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 92
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_92.p'
+2021-03-02 06:59:45.814807: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 93
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_93.p'
+2021-03-02 06:59:59.567559: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 94
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_94.p'
+2021-03-02 07:00:13.347645: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 95
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_95.p'
+2021-03-02 07:00:27.121606: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 96
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_96.p'
+2021-03-02 07:00:40.877784: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 97
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_97.p'
+2021-03-02 07:00:54.644923: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 98
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_98.p'
+2021-03-02 07:01:08.418100: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 99
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_99.p'
+2021-03-02 07:01:22.197412: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 100
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_100.p'
+2021-03-02 07:01:35.937055: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 101
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_101.p'
+2021-03-02 07:01:49.689063: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 102
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_102.p'
+2021-03-02 07:02:03.448469: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 103
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_103.p'
+2021-03-02 07:02:17.221746: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 104
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_104.p'
+2021-03-02 07:02:30.980396: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 105
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_105.p'
+2021-03-02 07:02:44.744485: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 106
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_106.p'
+2021-03-02 07:02:58.513018: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 107
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_107.p'
+2021-03-02 07:03:12.279151: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 108
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_108.p'
+2021-03-02 07:03:26.043951: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 109
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_109.p'
+2021-03-02 07:03:39.789568: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 110
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_110.p'
+2021-03-02 07:03:53.554192: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 111
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_111.p'
+2021-03-02 07:04:07.326245: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 112
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_112.p'
+2021-03-02 07:04:21.105409: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 113
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_113.p'
+2021-03-02 07:04:34.847166: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 114
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_114.p'
+2021-03-02 07:04:48.609655: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 115
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_115.p'
+2021-03-02 07:05:02.364013: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 116
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_116.p'
+2021-03-02 07:05:16.126508: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 117
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_117.p'
+2021-03-02 07:05:29.871703: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 118
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_118.p'
+2021-03-02 07:05:43.637786: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 119
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_119.p'
+2021-03-02 07:05:57.391986: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 120
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_120.p'
+2021-03-02 07:06:11.142702: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 121
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_121.p'
+2021-03-02 07:06:24.895225: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 122
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_122.p'
+2021-03-02 07:06:38.658630: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 123
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_123.p'
+2021-03-02 07:06:52.411997: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 124
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_124.p'
+2021-03-02 07:07:06.167233: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 125
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_125.p'
+2021-03-02 07:07:19.939393: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 126
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_126.p'
+2021-03-02 07:07:33.690570: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 127
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_127.p'
+2021-03-02 07:07:47.454638: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 128
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_128.p'
+2021-03-02 07:08:01.207823: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 129
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_129.p'
+2021-03-02 07:08:14.968449: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 130
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_130.p'
+2021-03-02 07:08:28.723920: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 131
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_131.p'
+2021-03-02 07:08:42.480763: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 132
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_132.p'
+2021-03-02 07:08:56.242779: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 133
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_133.p'
+2021-03-02 07:09:10.022662: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 134
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_134.p'
+2021-03-02 07:09:23.780353: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 135
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_135.p'
+2021-03-02 07:09:37.549236: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 136
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_136.p'
+2021-03-02 07:09:51.306961: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 137
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_137.p'
+2021-03-02 07:10:05.071899: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 138
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_138.p'
+2021-03-02 07:10:18.816266: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 139
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_139.p'
+2021-03-02 07:10:32.584681: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 140
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_140.p'
+2021-03-02 07:10:46.336612: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 141
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_141.p'
+2021-03-02 07:11:00.113833: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 142
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_142.p'
+2021-03-02 07:11:13.863937: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 143
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_143.p'
+2021-03-02 07:11:27.634649: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 144
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_144.p'
+2021-03-02 07:11:41.383398: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 145
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_145.p'
+2021-03-02 07:11:55.150107: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 146
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_146.p'
+2021-03-02 07:12:08.898028: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 147
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_147.p'
+2021-03-02 07:12:22.659705: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 148
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_148.p'
+2021-03-02 07:12:36.421541: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 149
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_149.p'
+2021-03-02 07:12:50.167142: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 150
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_150.p'
+2021-03-02 07:13:03.924092: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 151
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_151.p'
+2021-03-02 07:13:17.674065: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 152
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_152.p'
+2021-03-02 07:13:31.444132: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 153
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_153.p'
+2021-03-02 07:13:45.208130: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 154
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_154.p'
+2021-03-02 07:13:58.982765: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 155
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_155.p'
+2021-03-02 07:14:12.736475: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 156
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_156.p'
+2021-03-02 07:14:26.492216: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 157
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_157.p'
+2021-03-02 07:14:40.251135: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 158
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_158.p'
+2021-03-02 07:14:54.035953: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 159
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_159.p'
+2021-03-02 07:15:07.907331: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 160
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_160.p'
+2021-03-02 07:15:21.706457: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 161
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_161.p'
+2021-03-02 07:15:35.476619: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 162
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_162.p'
+2021-03-02 07:15:49.228600: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 163
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_163.p'
+2021-03-02 07:16:03.220414: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 164
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_164.p'
+2021-03-02 07:16:17.015587: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 165
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_165.p'
+2021-03-02 07:16:30.795341: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 166
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_166.p'
+2021-03-02 07:16:44.586784: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 167
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_167.p'
+2021-03-02 07:16:58.381632: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 168
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_168.p'
+2021-03-02 07:17:12.153864: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 169
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_169.p'
+2021-03-02 07:17:25.935655: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 170
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_170.p'
+2021-03-02 07:17:39.721910: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 171
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_171.p'
+2021-03-02 07:17:53.509130: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 172
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_172.p'
+2021-03-02 07:18:07.321315: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 173
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_173.p'
+2021-03-02 07:18:21.099214: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 174
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_174.p'
+2021-03-02 07:18:34.911478: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 175
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_175.p'
+2021-03-02 07:18:48.687391: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 176
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_176.p'
+2021-03-02 07:19:02.458927: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 177
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_177.p'
+2021-03-02 07:19:16.254022: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 178
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_178.p'
+2021-03-02 07:19:30.044163: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 179
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_179.p'
+2021-03-02 07:19:43.851188: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 180
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_180.p'
+2021-03-02 07:19:57.687882: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 181
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_181.p'
+2021-03-02 07:20:11.487860: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 182
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_182.p'
+2021-03-02 07:20:25.272187: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 183
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_183.p'
+2021-03-02 07:20:39.055216: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 184
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_184.p'
+2021-03-02 07:20:52.831302: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 185
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_185.p'
+2021-03-02 07:21:06.593581: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 186
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_186.p'
+2021-03-02 07:21:20.385826: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 187
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_187.p'
+2021-03-02 07:21:34.163878: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 188
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_188.p'
+2021-03-02 07:21:47.928910: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 189
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_189.p'
+2021-03-02 07:22:01.716104: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 190
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_190.p'
+2021-03-02 07:22:15.479236: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 191
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_191.p'
+2021-03-02 07:22:29.250011: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 192
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_192.p'
+2021-03-02 07:22:43.007885: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 193
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_193.p'
+2021-03-02 07:22:56.799114: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 194
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_194.p'
+2021-03-02 07:23:11.009992: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 195
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_195.p'
+2021-03-02 07:23:24.911858: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 196
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_196.p'
+2021-03-02 07:23:38.747172: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 197
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_197.p'
+2021-03-02 07:23:52.523099: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 198
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_198.p'
+2021-03-02 07:24:06.305449: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 199
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_199.p'
+2021-03-02 07:24:20.156956: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+starting from 200
+Traceback (most recent call last):
+  File "test_boost_Galen.py", line 48, in <module>
+    test()
+  File "test_boost_Galen.py", line 40, in test
+    save_rse_dir=opts.SAVE_RSE_DIR)
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 228, in boost_tree_testing_performance
+    self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(read_game_number) + '.p', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_200.p'

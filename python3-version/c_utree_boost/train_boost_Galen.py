@@ -1,7 +1,7 @@
 import optparse
-from . import Problem_moutaincar
+import Problem_moutaincar
 import pickle
-from . import Agent_boost_Galen as Agent
+import Agent_boost_Galen as Agent
 
 optparser = optparse.OptionParser()
 optparser.add_option("-m", "--max_node_hist", dest="MAX_NODE_HIST", default=3000,
@@ -19,9 +19,10 @@ opts = optparser.parse_args()[0]
 
 
 def train():
+    print("hoge")
     ice_hockey_problem = Problem_moutaincar.MoutainCar(games_directory=opts.GAME_DIRECTORY)
     CUTreeAgent = Agent.CUTreeAgent(problem=ice_hockey_problem, max_hist=opts.MAX_NODE_HIST,
-                                    check_fringe_freq=opts.CHECK_FRINGE_FREQ, is_episodic=0, training_mode=opts.TRAINING_MODE)
+                                    check_fringe_freq=opts.CHECK_FRINGE_FREQ, is_episodic=1, training_mode=opts.TRAINING_MODE)
 
     # CUTreeAgent.add_linear_regression()
     if opts.GAME_NUMBER is None:

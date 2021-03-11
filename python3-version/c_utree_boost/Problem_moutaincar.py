@@ -24,6 +24,7 @@ class MoutainCar:
         self.gamma = gamma
         self.reset = None
         self.isEpisodic = True
+        print(self.isEpisodic)
         self.nStates = len(self.stateFeatures)
         self.dimNames = ['position', 'velocity']
         self.dimSizes = ['continuous', 'continuous']

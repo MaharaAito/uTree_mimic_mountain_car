@@ -1,12 +1,13 @@
 import scipy as sp
 import scipy.stats
-from . import Agent_boost_Galen as Agent
-from . import Problem_moutaincar
-from . import C_UTree_boost_Galen as C_UTree
+import Agent_boost_Galen as Agent
+import Problem_moutaincar
+import C_UTree_boost_Galen as C_UTree
 import gym
 import numpy as np
-import tensorflow as tf
-from . import linear_regression
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
+import linear_regression
 
 env = gym.make('MountainCar-v0')
 ACTION_LIST = [0, 1, 2]

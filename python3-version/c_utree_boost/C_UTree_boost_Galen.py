@@ -10,9 +10,11 @@ import random, numpy as np, optparse, sys, csv
 import gc
 import math
 from collections import defaultdict
-from . import linear_regression
+# from . import linear_regression
+import linear_regression
 from scipy.stats import ks_2samp
 import tensorflow.compat.v1 as tf
+# import tensorflow as tf
 
 config = tf.ConfigProto()
 config.gpu_options.allow_growth = True
@@ -823,12 +825,12 @@ class CUTree:
     def hard_code_split(self):
         root = self.root
         if len(root.children) == 0 and len(self.history) >= 100:
-            print >> sys.stderr, "\nHard Coding\n"
+            print("\nHard Coding\n", file=sys.stderr)
             d = Distinction(dimension=-1, back_idx=0, dimension_name='actions')
             self.split(root, d)
             return True
         elif len(root.children) == 13:
-            print >> sys.stderr, "\nHard Coding\n"
+            print("\nHard Coding\n", file=sys.stderr)
             d = Distinction(dimension=9, back_idx=0, dimension_name=self.dim_names[9], iscontinuous=True,
                             continuous_divide_value=float(0))  # 0 is good enough
             self.split(root.children[5], d)
@@ -880,7 +882,7 @@ class CUTree:
                 LR.linear_regression_model()
                 trained_weights, trained_bias, average_diff = LR.gradient_descent(sess=sess, train_X=train_x,
                                                                                   train_Y=train_y)
-                print >> sys.stderr, 'node index is {0}'.format(node.idx)
+                print('node index is {0}'.format(node.idx), file=sys.stderr)
                 LR.delete_para()
                 node.weight = None
                 node.bias = None

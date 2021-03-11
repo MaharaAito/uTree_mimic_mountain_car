@@ -1,0 +1,7 @@
+2021-03-02 11:14:16.366861: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+Traceback (most recent call last):
+  File "train_boost_Galen.py", line 4, in <module>
+    import Agent_boost_Galen as Agent
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 11, in <module>
+    importlib.reload(tensorflow.compat.v1)
+NameError: name 'tensorflow' is not defined

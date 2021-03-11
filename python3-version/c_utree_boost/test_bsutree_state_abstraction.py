@@ -32,7 +32,7 @@ def generate_similar_b_u_tree_cluster(input_all):
     CUTreeAgent = Agent.CUTreeAgent(problem=ice_hockey_problem, max_hist=3000,
                                     check_fringe_freq=1200, is_episodic=0, training_mode='_linear_epoch_decay_lr')
     CUTreeAgent.read_Utree(game_number=train_game_number,
-                           save_path='/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/')
+                           save_path='./result_local/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/')
 
     for input_positions_index in range(0, len(input_all)):
         input_positions = input_all[input_positions_index]

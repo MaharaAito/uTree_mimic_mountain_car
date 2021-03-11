@@ -22,15 +22,20 @@ def read_result_csv(csv_dir):
     read_counter = 0
 
     with open(csv_dir, 'rb') as file:
+        print(csv_dir)
         rows = file.readlines()
         for row in rows:
+            row = row.decode() # bytes -> str
             if row == '\n':
                 continue
             else:
                 # print row
+                print("print row:",row)
                 row = row.replace('{', '').replace('}', '').replace('\n', '')
                 correlations = row.split(',')
                 read_counter += 1
+                print("print correlations:",correlations)
+                # print("hoge:", correlations[0].strip().split(':')[0])
                 if read_counter % 3 == 1:
                     home_linear_correl.append(float(correlations[0].strip().split(':')[1]))
                 elif read_counter % 3 == 2:
@@ -76,7 +81,8 @@ def plot_tree_result(x_plot_list, y_plot_list):
 def plot_tree_shadow_result(x_plot_array, y_plot_array, name):
     x_plot_array = [float(number) / 1000 for number in x_plot_array]
     plt.figure(figsize=(6, 6.5))
-    ax = sns.tsplot(y_plot_array, x_plot_array, condition=name, legend=True)
+    # ax = sns.tsplot(y_plot_array, x_plot_array, condition=name, legend=True)
+    ax = sns.lineplot(y_plot_array, x_plot_array, condition=name, legend=True)
     ax.ticklabel_format(axis='x', style='sci')
     plt.xlabel('Transition Numbers (by thousands)')
     # plt.ylabel(name)
@@ -100,7 +106,7 @@ def record_transition_length():
 
 def plot_simple_graph():
     home_linear_correl, home_oracle_correl, home_merge_correl = read_result_csv(
-        csv_dir='./result/result-correlation-all-linear-epoch-decay-lr-st0-500')
+        csv_dir='./result/result-correlation-all-linear-epoch-decay-lr-st0-1000.csv')
     transition_length_list = record_transition_length()
     x_plot_list, y_plot_list = dealing_plot_data(home_linear_correl, transition_length_list)
     plot_tree_result(x_plot_list, y_plot_list)

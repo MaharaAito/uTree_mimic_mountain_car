@@ -1,7 +1,7 @@
 import optparse
-from . import Problem_moutaincar
+import Problem_moutaincar
 import pickle
-from . import Agent_boost_Galen as Agent
+import Agent_boost_Galen as Agent
 
 optparser = optparse.OptionParser()
 optparser.add_option("-m", "--max_node_hist", dest="MAX_NODE_HIST", default=3000,
@@ -34,7 +34,7 @@ def test():
                                     check_fringe_freq=opts.CHECK_FRINGE_FREQ, is_episodic=0)
 
     CUTreeAgent.boost_tree_testing_performance(
-        save_path='/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save{0}/'.format(opts.TRAINING_MODE),
+        save_path='./result_local/model_boost_linear_qsplit_noabs_save{0}/'.format(opts.TRAINING_MODE),
         read_game_number=opts.GAME_NUMBER, save_correlation_dir = opts.SAVE_CORRELATION_DIR,
         save_mse_dir =opts.SAVE_MSE_DIR, save_mae_dir =opts.SAVE_MAE_DIR, save_rae_dir=opts.SAVE_RAE_DIR,
         save_rse_dir=opts.SAVE_RSE_DIR)

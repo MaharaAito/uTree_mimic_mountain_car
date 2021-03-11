@@ -6,7 +6,9 @@
 # Compiled at: 2018-01-03 14:44:40
 import gc
 import numpy as np, ast, scipy.io as sio, os, unicodedata, pickle, C_UTree_boost_Galen as C_UTree, csv
-import tensorflow as tf
+# import tensorflow as tf
+import importlib
+import tensorflow.compat.v1 as tf
 from scipy.stats import pearsonr
 
 import linear_regression
@@ -29,8 +31,8 @@ class CUTreeAgent:
         self.cff = check_fringe_freq
         self.valiter = 1
         self.problem = problem
-        # self.TREE_PATH = './csv_oracle_linear_qsplit_test/'
-        self.SAVE_PATH = '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save{0}/'.format(
+        self.TREE_PATH = './csv_oracle_linear_qsplit_test/'
+        self.SAVE_PATH = './result_local/model_boost_linear_qsplit_noabs_save{0}/'.format(
             training_mode)
         self.SAVE_MODEL_TREE_PATH = '/Local-Scratch/UTree model/moutaincar/model_boost_add_linear_qsplit_save{0}/'.format(
             training_mode)
@@ -559,6 +561,8 @@ class CUTreeAgent:
         game_record = self.read_csv_game_record(
             self.problem.games_directory + 'record_moutaincar_transition_game{0}.csv'.format(int(game_number)))
         event_number = len(game_record)
+        print(event_number)
+        
         beginflag = True
         count += 1
         for index in range(0, event_number):
@@ -588,10 +592,10 @@ class CUTreeAgent:
                 beginflag = False
 
         if self.problem.isEpisodic:
-            # print 'Game File ' + str(count)
+            print('Game File ' + str(count))
             print(('*** Writing Game File {0}***\n'.format(str(game_number + 1))))
             self.utree.print_tree_structure(self.PRINT_TREE_PATH)
             if save_checkpoint_flag and (game_number + 1) % 1 == 0:
                 pickle.dump(self.utree,
                             open(self.SAVE_PATH + 'pickle_Game_File_' + str(game_number + 1) + '.p', 'wb'))
-                # self.utree.tocsvFile(self.TREE_PATH + 'Game_File_' + str(game_number + 1) + '.csv')
+                self.utree.tocsvFile(self.TREE_PATH + 'Game_File_' + str(game_number + 1) + '.csv')

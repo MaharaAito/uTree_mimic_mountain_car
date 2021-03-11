@@ -44,7 +44,7 @@ class CUTreeAgent:
         self.cff = check_fringe_freq
         self.problem = problem
         # self.TREE_PATH = "./csv_test/"
-        self.SAVE_PATH = "/Local-Scratch/UTree model/mountaincar/model_control_normal_save/"
+        self.SAVE_PATH = "./result_local/model_control_normal_save/"
         self.epsilon_decay = .995
         self.max_episodes = 1000
         self.epsilon = 1

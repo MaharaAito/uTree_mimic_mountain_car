@@ -1,7 +1,7 @@
 import optparse
-from . import Problem_moutaincar
+import Problem_moutaincar
 import pickle
-from . import Agent_boost_Galen as Agent
+import Agent_boost_Galen as Agent
 
 optparser = optparse.OptionParser()
 optparser.add_option("-m", "--max_node_hist", dest="MAX_NODE_HIST", default=3000,

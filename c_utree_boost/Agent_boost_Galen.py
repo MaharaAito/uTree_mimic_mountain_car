@@ -30,7 +30,7 @@ class CUTreeAgent:
         self.valiter = 1
         self.problem = problem
         # self.TREE_PATH = './csv_oracle_linear_qsplit_test/'
-        self.SAVE_PATH = '/Local-Scratch/UTree model/mountaincar/model_boost_linear_qsplit_noabs_save{0}/'.format(
+        self.SAVE_PATH = './result_local/model_boost_linear_qsplit_noabs_save{0}/'.format(
             training_mode)
         self.SAVE_MODEL_TREE_PATH = '/Local-Scratch/UTree model/moutaincar/model_boost_add_linear_qsplit_save{0}/'.format(
             training_mode)

@@ -71,5 +71,5 @@ def generate_training_record_data():
 
 
 if __name__ == "__main__":
-    # generate_data()
+    generate_data()
     generate_training_record_data()
