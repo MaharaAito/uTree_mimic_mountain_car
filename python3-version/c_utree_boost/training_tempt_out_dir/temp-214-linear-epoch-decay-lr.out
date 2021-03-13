@@ -1,13 +1,14 @@
-2021-03-02 11:05:26.148341: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+2021-03-11 20:16:53.947767: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
 reading from ./result_local/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/, starting at 214
 hoge
+True
 Traceback (most recent call last):
   File "train_boost_Galen.py", line 39, in <module>
     train()
   File "train_boost_Galen.py", line 31, in train
     CUTreeAgent.episode(game_number=int(opts.GAME_NUMBER))
-  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 557, in episode
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 558, in episode
     self.read_Utree(game_number=start_game, save_path=self.SAVE_PATH)
-  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 131, in read_Utree
+  File "C:\Users\aito\Desktop\UEC\4th_year\nedoaipf\high_dimension\uTree_mimic_mountain_car\python3-version\c_utree_boost\Agent_boost_Galen.py", line 132, in read_Utree
     self.utree = pickle.load(open(save_path + 'pickle_Game_File_' + str(game_number) + '.p', 'rb'))
 FileNotFoundError: [Errno 2] No such file or directory: './result_local/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/pickle_Game_File_214.p'

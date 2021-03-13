@@ -1,6 +1,7 @@
-2021-03-02 15:02:36.227895: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
+2021-03-12 00:15:29.245915: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library cudart64_101.dll
 reading from ./result_local/model_boost_linear_qsplit_noabs_save_linear_epoch_decay_lr/, starting at 812
 hoge
+True
 Traceback (most recent call last):
   File "train_boost_Galen.py", line 39, in <module>
     train()
